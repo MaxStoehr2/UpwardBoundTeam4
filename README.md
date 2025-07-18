@@ -57,7 +57,7 @@ enter key - shoot
 # What we learned and are most proud of:
 Allison - I learned to code and some basic commands. I am most proud of the artwork used for the game.
 
-Max - I learned coding behind video games and commands as well as Allsion. I'm proud of every element used in the game including characters, background, and the music. 
+Max - I learned coding behind video games and commands as well as Allison. I'm proud of every element used in the game including characters, background, and the music. 
 
 # Replit Game Link: Play now
 https://replit.com/@medinaallison91/Pygame-Shooter-1
