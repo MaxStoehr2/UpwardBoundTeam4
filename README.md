@@ -40,7 +40,7 @@ right arrow - move right
 
 down arrow - move down
 
-enterkey - shoot
+enter key - shoot
 
 
 ## Start Screen: 
