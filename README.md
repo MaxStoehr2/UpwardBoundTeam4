@@ -45,5 +45,5 @@ enterkey - shoot
 # Game Play Screen
 <img width="660" height="476" alt="image" src="https://github.com/user-attachments/assets/975cd22a-8696-4b0e-aede-c718888cbb41" />
 
-Replit Game Link: Play now
+# Replit Game Link: Play now
 https://replit.com/@medinaallison91/Pygame-Shooter-1
