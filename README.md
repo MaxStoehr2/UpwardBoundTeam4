@@ -39,7 +39,8 @@ enterkey - shoot
 
 
 ## Game Over Screen 
-<img src="blob:chrome-untrusted://media-app/4a830f49-12fc-467b-8d3f-be470f9efac6" alt="ChatGPT Image Jul 17, 2025, 09_46_43 AM.png"/><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b349ca59-3995-439b-ab78-2fe51bc1bd9e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4bf6c18a-434d-45aa-b9a5-0cb12b04e646" />
+
 
 
 # Game Play Screen
