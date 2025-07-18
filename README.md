@@ -46,7 +46,14 @@ enterkey - shoot
 <img width="665" height="505" alt="image" src="https://github.com/user-attachments/assets/bfcb5480-2e24-490b-bd87-e843b5c16ae9" />
 
 # What we learned and are most proud of:
-Allison- I learned to code and some basic commands. I am most proud of the artwork used for the game.
+Allison - I learned to code and some basic commands. I am most proud of the artwork used for the game.
+Max - I learned coding behind video games and commands as well as Allsion. I'm proud of every element used in the game including characters, background, and the music. 
 
 # Replit Game Link: Play now
 https://replit.com/@medinaallison91/Pygame-Shooter-1
+
+# Credits:
+BeepBox, Pixelart, Free sounds, ChatGPT, Microsoft System Font, Pygame, Python
+
+# Special thanks: 
+You, the player, for playing Choco Cloud Kingdom
