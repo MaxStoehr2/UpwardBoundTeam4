@@ -42,7 +42,6 @@ enterkey - shoot
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4bf6c18a-434d-45aa-b9a5-0cb12b04e646" />
 
 
-
 # Game Play Screen
 <img width="660" height="476" alt="image" src="https://github.com/user-attachments/assets/975cd22a-8696-4b0e-aede-c718888cbb41" />
 
