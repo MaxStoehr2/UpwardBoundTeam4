@@ -22,17 +22,26 @@ Player two is a survivor who is jealous of the evil witch because she is the num
 ## How to Play
 ### Player 1:
 w - move up
+
 a - move left
+
 s - move down
+
 d - move right
+
 f - shoot
 
 ### Player 2: 
 up arrow - up
+
 left arrow - move left
+
 right arrow - move right
+
 down arrow - move down
+
 enterkey - shoot
+
 
 ## Start Screen: 
 <img width="798" height="561" alt="image" src="https://github.com/user-attachments/assets/811dc301-bd46-495b-9951-2b3d01d1a88f" />
